@@ -152,8 +152,6 @@ class BlindPostCrawler:
         tmp_df.to_csv(f'Blind_last.csv')
         data = []
 
-b = BlindPostCrawler()
-b.post_crawler()
 
 while True:
     pass
