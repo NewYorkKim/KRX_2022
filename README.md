@@ -1,4 +1,9 @@
 # *KRX : Fear&Greed index (Brief)* 
+> 기간 : 2022-06-27 : 2022-09-08
+
+> 주최 : KRX
+
+> 주제 : __AI 댓글 감성분석 점수를 활용한 국내 주식시장 심리지수__
 
 ## 1. 아이디어 배경 및 목적
 - 시장의 비이성적인 행동 흐름 포착
@@ -28,4 +33,7 @@
 
 
 ---
-*디테일은 제안서를 확인해 주세요.*
+**디테일은 __제안서.docx__ 를 확인해 주세요.*
+> Dacon 작성글 : *https://dacon.io/codeshare/5662*
+
+> Web service : *https://jjh0987-streamlit-krx-krx-streamlit-mw1uan.streamlitapp.com/* (닫혀 있을 수 있습니다.)
